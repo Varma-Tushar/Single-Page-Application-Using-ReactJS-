@@ -13,7 +13,7 @@ In the terminal window run the below commands in sequence:
 
 First change the directory and go to the path where you have unzip the project. For example:
 <pre>
-cd Blog
+cd blog
 </pre>
 
 Now, before you run the application, you need to install the packages using the following commands in the sequence as provided:

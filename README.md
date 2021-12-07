@@ -3,7 +3,7 @@ Creating a blog website in React JS
 
 <strong>(Steps to Follow)</strong>
 
-Download the zip folder from Git Repository.
+Download the project folder from Git Repository.
 
 Once you have downloaded the project, open the project in Microsoft Visual Studio Code (<strong>File</strong> -> <strong>Open Folder</strong> -> Select the folder <strong>Blog</strong>).
 
